@@ -1,3 +1,7 @@
+<p align="center">
+  Backend Engineer | Go • Node.js • PostgreSQL • Kafka • Kubernetes
+</p>
+
 # Hi, I'm Sunil Kumar 👋
 
 Backend Engineer focused on building scalable systems with Go, Node.js and PostgreSQL.
@@ -14,6 +18,12 @@ Backend Engineer focused on building scalable systems with Go, Node.js and Postg
 ## ⚙️ Tech Stack
 
 Go • Node.js • PostgreSQL • Redis • Kafka • Docker • Kubernetes • AWS • Linux
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=103sunil&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=103sunil&layout=compact)
 
 ## 📌 Current Focus
 
