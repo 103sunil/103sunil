@@ -25,9 +25,9 @@ Backend Engineer focused on building scalable systems with Go, Node.js and Postg
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=103sunil)](https://github.com/ryo-ma/github-profile-trophy)
+![snake](https://raw.githubusercontent.com/103sunil/103sunil/output/github-contribution-grid-snake.svg)
 
 ## 📈 Contribution Graph
 
