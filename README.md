@@ -17,13 +17,21 @@ Backend Engineer focused on building scalable systems with Go, Node.js and Postg
 
 ## ⚙️ Tech Stack
 
-Go • Node.js • PostgreSQL • Redis • Kafka • Docker • Kubernetes • AWS • Linux
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![Kafka](https://img.shields.io/badge/Kafka-000000?logo=apachekafka)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=103sunil&show_icons=true&theme=github_dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=103sunil)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=103sunil&layout=compact&theme=github_dark)
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=103sunil)
 
 ## 📌 Current Focus
 
