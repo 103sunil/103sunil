@@ -21,9 +21,9 @@ Go • Node.js • PostgreSQL • Redis • Kafka • Docker • Kubernetes • 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=103sunil&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=103sunil&show_icons=true&theme=github_dark)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=103sunil&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=103sunil&layout=compact&theme=github_dark)
 
 ## 📌 Current Focus
 
