@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sunil Kumar 👋
 
-<!--
-**103sunil/103sunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building scalable systems with Go, Node.js and PostgreSQL.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design Microservices
+- Build REST & gRPC APIs
+- Work with PostgreSQL & Redis
+- Event-Driven Architecture using Kafka
+- Docker & Kubernetes Deployments
+- CI/CD Automation
+
+## ⚙️ Tech Stack
+
+Go • Node.js • PostgreSQL • Redis • Kafka • Docker • Kubernetes • AWS • Linux
+
+## 📌 Current Focus
+
+- High-performance Go APIs
+- Distributed Systems
+- Kubernetes
+- Observability with Prometheus & Grafana
+
+## 🔥 Featured Projects
+
+Check the pinned repositories below 👇
